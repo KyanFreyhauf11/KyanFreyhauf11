@@ -18,7 +18,7 @@ I am an aspiring Accounting student in univerity.
 
 | Tip Calculator | Informing the user of how much to tip using the bill amount and tip percentage | pythonanywhere.com |
 | --- | --- | --- |
-| **Time Clock WebApp** | WebApp built on PythonAnywhere using [OpenAI / Claude / Gemini] | `[Python]` `[Flask]` |
+| **Time Clock WebApp** | WebApp built on PythonAnywhere using [Claude] | Python |
 
 
 ---
