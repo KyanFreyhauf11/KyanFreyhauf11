@@ -2,6 +2,8 @@
 
 I am an aspiring Accounting student in univerity.
 
+* For Resume, click [here](https://rawcdn.githack.com/KyanFreyhauf11/KyanFreyhauf11/beab927bbf071c8b22da3d955f9bbc5133b32106/RESUME_UPDATE_9_8%20(3)%20(1).pdf)
+
 ---
 
 ### 🎓 About Me
