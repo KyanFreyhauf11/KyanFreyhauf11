@@ -1,6 +1,6 @@
 # Hi there, I'm Kyan 👋
 
-I am an aspiring Accountant student in univerity.
+I am an aspiring Accounting student in univerity.
 
 ---
 
